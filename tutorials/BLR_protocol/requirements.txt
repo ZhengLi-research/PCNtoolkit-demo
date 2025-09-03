@@ -1,7 +1,7 @@
-pandas
+pcntoolkit==0.30
+pandas==1.5.3
 numpy
 matplotlib
-#sklearn
 scikit-learn
-joypy
-pcntoolkit
+joypyi
+seaborn
